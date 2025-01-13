@@ -1,1 +1,1 @@
-# Landing page Life Streaming
+# Landing page
